@@ -1,6 +1,8 @@
 ## Bet Calculator Extension
 
-A simple Chrome extension that helps you calculate your next bet based on your current bet amount and average winnings per game.
+A simple Chrome extension that helps you calculate your next bet based on your current bet amount and average winnings per game in Pirates of Procyon or Star Pirates.
+https://www.piratesofprocyon.com/
+https://www.starpirates.net/
 
 ## Installation
 
